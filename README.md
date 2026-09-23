@@ -2,7 +2,7 @@
 Interactive Ecommerce Sales Dashboard Created Using Power BI
 
 # Dashboard Preview
-![Dashboard Preview] (./Dashboard.png)
+![Dashboard Preview](./Dashboard.png)
 
 # Project overview 
 This project is an interactive E-Commerce Sales Dashboard developed in Microsoft Power BI.
